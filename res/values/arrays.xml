@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locations">
+        <item>Home</item>
+        <item>Email</item>
+        <item>Calendar</item>
+        <item>Browser</item>
+        <item>Clock</item>
+    </string-array>
+    <string-array name="sections">
+		<item>Home</item>
+		<item>SDK</item>
+		<item>Dev Guide</item>
+		<item>Reference</item>
+		<item>Resources</item>
+		<item>Videos</item>
+		<item>Blog</item>
+	</string-array>
+</resources>
